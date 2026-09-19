@@ -1,30 +1,45 @@
-## Hi there 👋
+# Hi, I'm Alexis 👋
 
-As a student-researcher at EPITA, I am passionate about computer science, and artificial intelligence in particular.
+🎓 **Computer Science Engineering Student & Student Researcher at EPITA**
 
-The environment provided by my studies at EPITA has enabled me to acquire both technical and interpersonal skills on a daily basis. Indeed, the various projects and "piscines" (intensive weeks dedicated to learning a programming language)—due to their demanding nature—have allowed me to develop a wide range of skills over the years, including:
+I'm passionate about **computer science**, with a particular interest in **artificial intelligence, algorithms, cryptography, and systems programming**.
 
-• Programming languages: C, C#, C++, Java, JavaScript, Python, and SQL
+My studies at EPITA have allowed me to work on a wide range of projects, from low-level programming and system development to artificial intelligence and software engineering.
 
-• Environments and tools: Linux, Git (GitHub and GitLab), and Docker
+## 💻 Technical Skills
 
-• Soft skills: autonomy, adaptability, curiosity, communication, organization, and team management
+### Languages
 
-Furthermore, my experience as a teaching assistant for programming labs and my research activities have deepened my understanding of the technical landscape and honed my ability to share knowledge, solve technical problems, seek innovative solutions, and continuously learn new concepts.
+`C` · `C++` · `C#` · `Java` · `JavaScript` · `Python` · `SQL` · `Caml`
 
+### Technologies & Tools
 
+`Linux` · `Git` · `GitHub` · `GitLab` · `Docker` · `OpenMP`
 
-<!--
-**Vorpalin/Vorpalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Areas of Interest
 
-Here are some ideas to get you started:
+`Artificial Intelligence` · `Algorithms` · `Cryptography` · `Cryptanalysis` · `Systems Programming` · `Computer Architecture`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍🏫 Teaching & Collaboration
+
+As a **programming teaching assistant**, I help students develop their skills in **C, Python, Git, and Linux**, while also contributing to the preparation, testing, and correction of practical assignments.
+
+These experiences have strengthened my ability to **communicate technical concepts, solve problems, collaborate within a team, and continuously learn**.
+
+## 🚀 Projects
+
+Some of the projects I work on include:
+
+* 🖥️ **C/C++ Emulators** — Collections of Emulators
+* ⚙️ **Systems Programming** — shell, HTTP server, and memory allocator implementations
+* 🎮 **Game Development** — projects using Unity and low-level programming
+
+Feel free to explore my repositories to learn more about my work!
+
+---
+
+### 📫 Contact
+
+* 🌐 **Portfolio:** [vorpalin.github.io](https://vorpalin.github.io/)
+* 💼 **LinkedIn:** [Alexis MIALON](https://www.linkedin.com/in/alexis-mialon-79117b329/)
+* 📧 **Email:** `alexis.mialon69@gmail.com`
