@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+      width="650" height="390" viewBox="0 0 650 390">
+      <style>
+        text { font-family: Arial, sans-serif; }
+        .title { font-size: 22px; font-weight: bold; fill: #e6edf3; }
+        .subtitle { font-size: 12px; fill: #8b949e; }
+        .rank { font-size: 15px; font-weight: bold; fill: #a371f7; }
+        .repo { font-size: 14px; fill: #e6edf3; }
+        .count { font-size: 13px; fill: #8b949e; }
+        a { text-decoration: none; }
+      </style>
+      <rect width="100%" height="100%" rx="12"
+            fill="#0d1117" stroke="#30363d"/>
+      <text x="24" y="34" class="title">
+        Top Contributed Repositories
+      </text>
+      <text x="24" y="57" class="subtitle">
+        @Vorpalin · All available contribution years
+      </text>
+      
+        <a href="https://github.com/Vorpalin/emulators-collection" target="_blank">
+          <text x="28" y="90" class="rank">#1</text>
+          <text x="78" y="90" class="repo">Vorpalin/emulators-collection</text>
+          <text x="620" y="90" text-anchor="end" class="count">
+            191 commits
+          </text>
+        </a>
+        <line x1="24" y1="107" x2="626" y2="107"
+              stroke="#30363d"/>
+        
+        <a href="https://github.com/Vorpalin/Vorpalin.github.io" target="_blank">
+          <text x="28" y="148" class="rank">#2</text>
+          <text x="78" y="148" class="repo">Vorpalin/Vorpalin.github.io</text>
+          <text x="620" y="148" text-anchor="end" class="count">
+            106 commits
+          </text>
+        </a>
+        <line x1="24" y1="165" x2="626" y2="165"
+              stroke="#30363d"/>
+        
+        <a href="https://github.com/Vorpalin/codecrafters-claude-code-python" target="_blank">
+          <text x="28" y="206" class="rank">#3</text>
+          <text x="78" y="206" class="repo">Vorpalin/codecrafters-claude-code-python</text>
+          <text x="620" y="206" text-anchor="end" class="count">
+            60 commits
+          </text>
+        </a>
+        <line x1="24" y1="223" x2="626" y2="223"
+              stroke="#30363d"/>
+        
+        <a href="https://github.com/SimuCorp/SIMUCORP" target="_blank">
+          <text x="28" y="264" class="rank">#4</text>
+          <text x="78" y="264" class="repo">SimuCorp/SIMUCORP</text>
+          <text x="620" y="264" text-anchor="end" class="count">
+            41 commits
+          </text>
+        </a>
+        <line x1="24" y1="281" x2="626" y2="281"
+              stroke="#30363d"/>
+        
+        <a href="https://github.com/Vorpalin/AI_Assignment" target="_blank">
+          <text x="28" y="322" class="rank">#5</text>
+          <text x="78" y="322" class="repo">Vorpalin/AI_Assignment</text>
+          <text x="620" y="322" text-anchor="end" class="count">
+            15 commits
+          </text>
+        </a>
+        <line x1="24" y1="339" x2="626" y2="339"
+              stroke="#30363d"/>
+        
+    </svg>
+    
