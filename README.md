@@ -15,12 +15,11 @@
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](./profile/trophy.svg)
 
+### 🔝 Top Contributed Repositories
 
-### 🔝 My GitHub Profile
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Vorpalin&icon=0&color=0)](https://visitcount.itsvg.in)
+![Top Contributed Repositories](./profile/top-contributed.svg)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Vorpalin&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=Vorpalin&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

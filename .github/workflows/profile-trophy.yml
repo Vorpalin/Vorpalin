@@ -1,0 +1,68 @@
+
+name: Update Profile Statistics
+
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "profile/trophy.svg"
+      - "profile/top-contributed.svg"
+
+  schedule:
+    - cron: "17 3 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-statistics
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    name: Generate profile cards
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub trophies
+        uses: soulteary/github-profile-trophy-action@v1
+        with:
+          options: "username=Vorpalin&theme=radical&no-frame=false&no-bg=true&margin-w=4"
+          path: profile/trophy.svg
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install Python dependencies
+        run: python -m pip install requests
+
+      - name: Generate top contributed repositories
+        env:
+          PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+        run: python scripts/generate_top_repos.py
+
+      - name: Commit generated statistics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/trophy.svg profile/top-contributed.svg
+
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update profile statistics"
+            git push
+          else
+            echo "Profile statistics are already up to date."
+          fi
+
