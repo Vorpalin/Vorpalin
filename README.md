@@ -23,7 +23,7 @@ Explore my repositories to learn more about what I'm building.
 
 I'm interested in contributing to open-source projects, especially in AI, developer tools, and software engineering.
 
-- **LangChain** — Working on model profile generation to support configurable reasoning effort levels. [PR #XXXX](https://github.com/langchain-ai/langchain/pulls) *(replace with the direct PR link and update the status when available).*
+- **LangChain** — Working on model profile generation to support configurable reasoning effort levels. [PR #1389](https://github.com/langchain-ai/langchain-aws/pull/1389)
 
 ## 🧰 Tech Stack
 
