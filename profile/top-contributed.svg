@@ -22,7 +22,7 @@
           <text x="28" y="90" class="rank">#1</text>
           <text x="78" y="90" class="repo">Vorpalin/emulators-collection</text>
           <text x="620" y="90" text-anchor="end" class="count">
-            191 commits
+            192 commits
           </text>
         </a>
         <line x1="24" y1="107" x2="626" y2="107"
