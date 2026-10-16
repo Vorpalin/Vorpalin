@@ -77,5 +77,4 @@ I'm interested in contributing to open-source projects, especially in AI, develo
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vorpalin&color=blue&style=flat)
-
+[![Profile Views](https://komarev.com/ghpvc/?username=Vorpalin&icon=0&color=0)](https://visitcount.itsvg.in)
