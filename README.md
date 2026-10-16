@@ -1,20 +1,34 @@
-Hi, I'm Alexis 👋
-🎓 Computer Science Engineering Student & Student Researcher at EPITA
-I'm passionate about computer science, with a particular interest in artificial intelligence, algorithms, cryptography, and systems programming. My studies and projects span low-level development, software engineering, and AI.
-🔬 Research & Teaching
-Student Researcher at EPITA — Exploring cryptanalysis and S-box minimization.
-Programming Teaching Assistant — Helping first-year students with C, Python, Git, and Linux, including practical assignments and code reviews.
-🚀 Projects
+# Hi, I'm Alexis 👋
+
+🎓 **Computer Science Engineering Student & Student Researcher at EPITA**
+
+I'm passionate about computer science, with a particular interest in **artificial intelligence, algorithms, cryptography, and systems programming**. My studies and projects span low-level development, software engineering, and AI.
+
+## 🔬 Research & Teaching
+
+- **Student Researcher at EPITA** — Exploring cryptanalysis and S-box minimization.
+- **Programming Teaching Assistant** — Helping first-year students with C, Python, Git, and Linux, including practical assignments and code reviews.
+
+## 🚀 Projects
+
 Some areas I enjoy working on:
-C/C++ Emulators — A collection of emulators built with a shared web interface.
-Systems Programming — Projects involving shells, HTTP servers, and memory allocators.
-Game Development — Projects using Unity and low-level programming.
+
+- **C/C++ Emulators** — A collection of emulators built with a shared web interface.
+- **Systems Programming** — Projects involving shells, HTTP servers, and memory allocators.
+- **Game Development** — Projects using Unity and low-level programming.
+
 Explore my repositories to learn more about what I'm building.
-🌍 Open-Source Contributions
+
+## 🌍 Open-Source Contributions
+
 I'm interested in contributing to open-source projects, especially in AI, developer tools, and software engineering.
-LangChain — Working on model profile generation to support configurable reasoning effort levels. PR #XXXX (replace with the direct PR link and update the status when available).
-🧰 Tech Stack
-Languages
+
+- **LangChain** — Working on model profile generation to support configurable reasoning effort levels. [PR #XXXX](https://github.com/langchain-ai/langchain/pulls) *(replace with the direct PR link and update the status when available).*
+
+## 🧰 Tech Stack
+
+**Languages**
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -23,7 +37,9 @@ Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![OCaml](https://img.shields.io/badge/OCaml-E98407?style=for-the-badge&logo=ocaml&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-Frameworks, Platforms & Tools
+
+**Frameworks, Platforms & Tools**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -38,19 +54,28 @@ Frameworks, Platforms & Tools
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-📊 GitHub Stats
+
+## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Vorpalin&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Vorpalin&theme=dark&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Vorpalin&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-🏆 GitHub Trophies
+
+## 🏆 GitHub Trophies
+
 ![GitHub Trophies](./profile/trophy.svg)
-🤝 Top Contributed Repositories
+
+## 🤝 Top Contributed Repositories
+
 ![Top Contributed Repositories](./profile/top-contributed.svg)
-🔗 Connect with Me
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexis-mialon-79117b329)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vorpalin)
+
 ---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Vorpalin&color=blue&style=flat)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
