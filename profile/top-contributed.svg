@@ -22,7 +22,7 @@
           <text x="28" y="90" class="rank">#1</text>
           <text x="78" y="90" class="repo">Vorpalin/emulators-collection</text>
           <text x="620" y="90" text-anchor="end" class="count">
-            192 commits
+            195 commits
           </text>
         </a>
         <line x1="24" y1="107" x2="626" y2="107"
@@ -58,11 +58,11 @@
         <line x1="24" y1="281" x2="626" y2="281"
               stroke="#30363d"/>
         
-        <a href="https://github.com/Vorpalin/AI_Assignment" target="_blank">
+        <a href="https://github.com/Vorpalin/Vorpalin" target="_blank">
           <text x="28" y="322" class="rank">#5</text>
-          <text x="78" y="322" class="repo">Vorpalin/AI_Assignment</text>
+          <text x="78" y="322" class="repo">Vorpalin/Vorpalin</text>
           <text x="620" y="322" text-anchor="end" class="count">
-            15 commits
+            16 commits
           </text>
         </a>
         <line x1="24" y1="339" x2="626" y2="339"
