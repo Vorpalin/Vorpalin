@@ -6,7 +6,7 @@ I'm passionate about computer science, with a particular interest in **artificia
 
 ## 🔬 Research & Teaching
 
-- **Student Researcher at EPITA** — Exploring cryptanalysis and S-box minimization.
+- **Student Researcher at EPITA** — Exploring differential cryptanalysis and S-box minimization.
 - **Programming Teaching Assistant** — Helping first-year students with C, Python, Git, and Linux, including practical assignments and code reviews.
 
 ## 🚀 Projects
