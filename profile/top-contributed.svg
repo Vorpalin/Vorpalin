@@ -32,7 +32,7 @@
           <text x="28" y="148" class="rank">#2</text>
           <text x="78" y="148" class="repo">Vorpalin/Vorpalin.github.io</text>
           <text x="620" y="148" text-anchor="end" class="count">
-            110 commits
+            112 commits
           </text>
         </a>
         <line x1="24" y1="165" x2="626" y2="165"
@@ -62,7 +62,7 @@
           <text x="28" y="322" class="rank">#5</text>
           <text x="78" y="322" class="repo">Vorpalin/Vorpalin</text>
           <text x="620" y="322" text-anchor="end" class="count">
-            16 commits
+            17 commits
           </text>
         </a>
         <line x1="24" y1="339" x2="626" y2="339"
