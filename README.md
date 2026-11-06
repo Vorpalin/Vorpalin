@@ -9,14 +9,14 @@ Interested in **AI, applied research, symmetric cryptography, and systems progra
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)](https://webassembly.org/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)\n[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 
 I enjoy working on projects that combine rigorous engineering with technical exploration — from low-level C++ and WebAssembly to AI tooling and cryptography.
 
 ## 🔭 Current Focus
 
 - **AI & open source** — Exploring agentic AI systems and contributing to the LangChain ecosystem.
-- **Applied research** — Studying symmetric cryptography, particularly differential cryptanalysis and the analysis of active S-boxes.
+- **Applied research** — Studying symmetric cryptography, with a focus on differential cryptanalysis and active S-box minimization.
 - **Systems & web technologies** — Building modular C++ software and browser-based applications.
 
 ## 🚀 Featured Projects
@@ -43,7 +43,7 @@ I contribute to projects around AI infrastructure and developer tooling, particu
 
 ## 🔬 Research & Teaching
 
-- **Student Researcher at EPITA** — Exploring symmetric cryptography, with a focus on differential cryptanalysis and active S-box minimization.
+- **Student Researcher at EPITA** — Conducting research in symmetric cryptography.
 - **Programming Teaching Assistant** — Supporting first-year students in **C, Python, Git, and Linux**, including practical assignments, code reviews, and debugging.
 
 ## 🧰 Technologies
@@ -61,5 +61,5 @@ I contribute to projects around AI infrastructure and developer tooling, particu
 
 ## 🤝 Connect
 
-- [LinkedIn](https://linkedin.com/in/alexis-mialon-79117b329)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexis-mialon-79117b329)
 - [Portfolio](https://vorpalin.github.io/)
