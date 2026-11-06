@@ -1,14 +1,14 @@
 # Hi, I'm Alexis 👋
 
 🎓 **Computer Science Engineering Student at EPITA**  
-Interested in **AI, applied research, cryptography, and systems programming**.
+Interested in **AI, applied research, cryptanalysis, and systems programming**.
 
 I enjoy working on projects that combine rigorous engineering with technical exploration — from low-level C++ and WebAssembly to AI tooling and cryptanalysis.
 
 ## 🔭 Current Focus
 
 - **AI & open source** — Exploring agentic AI systems and contributing to the LangChain ecosystem.
-- **Applied research** — Working on differential cryptanalysis and active S-box minimization for the SKINNY block cipher, as part of the TAGADA project at EPITA.
+- **Applied research** — Studying differential cryptanalysis, including active S-box minimization for the SKINNY block cipher.
 - **Systems & web technologies** — Building modular C++ software and browser-based applications.
 
 ## 🚀 Featured Projects
@@ -34,7 +34,7 @@ I contribute to projects around AI infrastructure and developer tooling.
 
 ## 🔬 Research & Teaching
 
-- **Student Researcher at EPITA** — Exploring differential cryptanalysis and active S-box minimization, with a focus on the SKINNY family of block ciphers.
+- **Student Researcher at EPITA** — Exploring differential cryptanalysis, with a focus on active S-box minimization and the SKINNY family of block ciphers.
 - **Programming Teaching Assistant** — Supporting first-year students in **C, Python, Git, and Linux**, including practical assignments, code reviews, and debugging.
 
 ## 🧰 Technologies
