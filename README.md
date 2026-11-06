@@ -16,9 +16,9 @@ I enjoy working on projects that combine rigorous engineering with technical exp
 
 ## 🔭 Current Focus
 
-- **AI & open source** — Exploring agentic AI systems and contributing to the LangChain ecosystem.
-- **Applied research** — Studying symmetric cryptography, with a focus on differential cryptanalysis and active S-box minimization.
-- **Systems & web technologies** — Building modular C++ software and browser-based applications.
+- **AI & open source** - Exploring agentic AI systems and contributing to the LangChain ecosystem.
+- **Applied research** - Studying symmetric cryptography, with a focus on differential cryptanalysis and active S-box minimization.
+- **Systems & web technologies** - Building modular C++ software and browser-based applications.
 
 ## 🚀 Featured Projects
 
@@ -39,13 +39,13 @@ A **LaTeX-based CV project** with French and English versions, one-column and tw
 
 I contribute to projects around AI infrastructure and developer tooling, particularly the LangChain AWS integration.
 
-- **[PR #1426 — Bedrock agent tool schemas](https://github.com/langchain-ai/langchain-aws/pull/1426)** — Fixed required/optional parameter detection for falsy defaults (empty strings, zero, false, and None) and Pydantic default_factory values.
-- **[PR #1389](https://github.com/langchain-ai/langchain-aws/pull/1389)** · **[PR #1415](https://github.com/langchain-ai/langchain-aws/pull/1415)** — Contributions related to model profile generation and configurable reasoning-effort levels.
+- **[PR #1426 — Bedrock agent tool schemas](https://github.com/langchain-ai/langchain-aws/pull/1426)** - Fixed required/optional parameter detection for falsy defaults (empty strings, zero, false, and None) and Pydantic default_factory values.
+- **[PR #1389](https://github.com/langchain-ai/langchain-aws/pull/1389)** · **[PR #1415](https://github.com/langchain-ai/langchain-aws/pull/1415)** - Contributions related to model profile generation and configurable reasoning-effort levels.
 
 ## 🔬 Research & Teaching
 
-- **Student Researcher at EPITA** — Conducting research in symmetric cryptography.
-- **Programming Teaching Assistant** — Supporting first-year students in **C, Python, Git, and Linux**, including practical assignments, code reviews, and debugging.
+- **Student Researcher at EPITA** - Conducting research in symmetric cryptography.
+- **Programming Teaching Assistant** - Supporting first-year students in **C, Python, Git, and Linux**, including practical assignments, code reviews, and debugging.
 
 ## 🧰 Technologies
 
