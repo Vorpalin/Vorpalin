@@ -22,7 +22,7 @@
           <text x="28" y="90" class="rank">#1</text>
           <text x="78" y="90" class="repo">Vorpalin/emulators-collection</text>
           <text x="620" y="90" text-anchor="end" class="count">
-            304 commits
+            322 commits
           </text>
         </a>
         <line x1="24" y1="107" x2="626" y2="107"
@@ -38,31 +38,31 @@
         <line x1="24" y1="165" x2="626" y2="165"
               stroke="#30363d"/>
         
-        <a href="https://github.com/Vorpalin/codecrafters-claude-code-python" target="_blank">
+        <a href="https://github.com/Vorpalin/curriculum-vitae" target="_blank">
           <text x="28" y="206" class="rank">#3</text>
-          <text x="78" y="206" class="repo">Vorpalin/codecrafters-claude-code-python</text>
+          <text x="78" y="206" class="repo">Vorpalin/curriculum-vitae</text>
           <text x="620" y="206" text-anchor="end" class="count">
-            60 commits
+            86 commits
           </text>
         </a>
         <line x1="24" y1="223" x2="626" y2="223"
               stroke="#30363d"/>
         
-        <a href="https://github.com/SimuCorp/SIMUCORP" target="_blank">
+        <a href="https://github.com/Vorpalin/codecrafters-claude-code-python" target="_blank">
           <text x="28" y="264" class="rank">#4</text>
-          <text x="78" y="264" class="repo">SimuCorp/SIMUCORP</text>
+          <text x="78" y="264" class="repo">Vorpalin/codecrafters-claude-code-python</text>
           <text x="620" y="264" text-anchor="end" class="count">
-            41 commits
+            60 commits
           </text>
         </a>
         <line x1="24" y1="281" x2="626" y2="281"
               stroke="#30363d"/>
         
-        <a href="https://github.com/Vorpalin/Vorpalin" target="_blank">
+        <a href="https://github.com/SimuCorp/SIMUCORP" target="_blank">
           <text x="28" y="322" class="rank">#5</text>
-          <text x="78" y="322" class="repo">Vorpalin/Vorpalin</text>
+          <text x="78" y="322" class="repo">SimuCorp/SIMUCORP</text>
           <text x="620" y="322" text-anchor="end" class="count">
-            17 commits
+            41 commits
           </text>
         </a>
         <line x1="24" y1="339" x2="626" y2="339"
