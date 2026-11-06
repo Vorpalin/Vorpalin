@@ -39,7 +39,7 @@ A **LaTeX-based CV project** with French and English versions, one-column and tw
 
 I contribute to projects around AI infrastructure and developer tooling, particularly the LangChain AWS integration.
 
-- **[PR #1426 — Bedrock agent tool schemas](https://github.com/langchain-ai/langchain-aws/pull/1426)** <img src="https://img.shields.io/badge/Merged-2DA44E?style=flat-square&logo=github&logoColor=white" alt="Merged" /> — Fixed required/optional parameter detection for falsy defaults (empty strings, zero, false, and None) and Pydantic default_factory values. Added unit tests for generated Bedrock action-group schemas.
+- **[PR #1426 — Bedrock agent tool schemas](https://github.com/langchain-ai/langchain-aws/pull/1426)** <img src="https://img.shields.io/badge/Merged-2DA44E?style=flat-square&logo=github&logoColor=white" alt="Merged" /> — Fixed required/optional parameter detection for falsy defaults (empty strings, zero, false, and None) and Pydantic default_factory values.
 - **[PR #1389](https://github.com/langchain-ai/langchain-aws/pull/1389)** · **[PR #1415](https://github.com/langchain-ai/langchain-aws/pull/1415)** — Contributions related to model profile generation and configurable reasoning-effort levels.
 
 ## 🔬 Research & Teaching
