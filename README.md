@@ -1,7 +1,16 @@
 # Hi, I'm Alexis 👋
 
 🎓 **Computer Science Engineering Student at EPITA**  
-Interested in **AI, applied research, cryptography, and systems programming**.
+Interested in **AI, applied research, symmetric cryptography, and systems programming**.
+
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)](https://webassembly.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 
 I enjoy working on projects that combine rigorous engineering with technical exploration — from low-level C++ and WebAssembly to AI tooling and cryptography.
 
@@ -28,9 +37,10 @@ A **LaTeX-based CV project** with French and English versions, one-column and tw
 
 ## 🌍 Open-Source Contributions
 
-I contribute to projects around AI infrastructure and developer tooling.
+I contribute to projects around AI infrastructure and developer tooling, particularly the LangChain AWS integration.
 
-- **[LangChain AWS](https://github.com/langchain-ai/langchain-aws)** — Work related to model profile generation and support for configurable reasoning-effort levels: [PR #1389](https://github.com/langchain-ai/langchain-aws/pull/1389) · [PR #1415](https://github.com/langchain-ai/langchain-aws/pull/1415).
+- **[PR #1426 — Bedrock agent tool schemas](https://github.com/langchain-ai/langchain-aws/pull/1426)** <img src="https://img.shields.io/badge/Merged-2DA44E?style=flat-square&logo=github&logoColor=white" alt="Merged" /> — Fixed required/optional parameter detection for falsy defaults (empty strings, zero, false, and None) and Pydantic default_factory values. Added unit tests for generated Bedrock action-group schemas.
+- **[PR #1389](https://github.com/langchain-ai/langchain-aws/pull/1389)** · **[PR #1415](https://github.com/langchain-ai/langchain-aws/pull/1415)** — Contributions related to model profile generation and configurable reasoning-effort levels.
 
 ## 🔬 Research & Teaching
 
