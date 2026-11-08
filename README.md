@@ -63,4 +63,4 @@ I contribute to projects around AI infrastructure and developer tooling, particu
 ## 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexis-mialon-79117b329)
-[![Discord](https://img.shields.io/badge/Discord-Vorpalin-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/alexis0206)
+[![Discord](https://img.shields.io/badge/Discord-Vorpalin-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1143973742771454012)
