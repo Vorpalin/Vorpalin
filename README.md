@@ -44,7 +44,7 @@ I contribute to projects around AI infrastructure and developer tooling, particu
 
 ## 🔬 Research & Teaching
 
-- **Student Researcher at EPITA** - Conducting research in symmetric cryptography.
+- **Student Researcher at EPITA** - Conducting research in differential cryptanalysis.
 - **Programming Teaching Assistant** - Supporting first-year students in **C, Python, Git, and Linux**, including practical assignments, code reviews, and debugging.
 
 ## 🧰 Technologies
