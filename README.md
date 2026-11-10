@@ -3,6 +3,8 @@
 🎓 **Computer Science Engineering Student at EPITA**  
 Interested in **AI, applied research, symmetric cryptography, and systems programming**.
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/Vorpalin/badge.svg)](https://hub.xerj.org/contributors/Vorpalin)
+
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -28,6 +30,7 @@ A modular collection of retro-console emulators accessible through a shared web 
 - Emulator cores written in **C++20**, with hardware components kept modular.
 - Compiled to **WebAssembly** with Emscripten to run in the browser.
 - Frontend built with **React, TypeScript, and Vite**.
+- **Selected for inclusion in the [XERJ Corpus Hub](https://hub.xerj.org/contributors/Vorpalin/)**: the battery-backed NES cartridge RAM implementation is currently under review.
 
 ### [Personal Portfolio](https://github.com/Vorpalin/Vorpalin.github.io)
 My portfolio website, built with **React, TypeScript, and Vite**, featuring a responsive interface and dark/light themes.
